@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Bilal Khan 👋
 
-<!--
-**BilalKhan123456789/BilalKhan123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate Frontend Developer currently working with **React.js**  
+🎯 Learning **Backend development** to become a Full Stack Developer  
+🤝 Open to collaboration and learning new technologies every day
 
-Here are some ideas to get you started:
+> 💬 “Code, Create, Collaborate.” — *Let’s build something awesome together!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools:
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadBilal786&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal786&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadBilal786&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bilal-fareedi-54aa37229/)
